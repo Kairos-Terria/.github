@@ -8,4 +8,4 @@ KG Kairos 1기 교육을 들으며 로봇과 AI에 대해 공부하고 있는 Te
 
 🦾 [myCobot320으로 물체를 색으로 분류](https://github.com/Kairos-Terria/classification.git)
 
-🪐 두 발 로봇으로 자율 주행 및 비주얼 슬램 구현(ing..)  
+🪐 두 바퀴 로봇으로 자율 주행 및 비주얼 슬램 구현(ing..)  
